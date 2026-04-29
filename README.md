@@ -50,14 +50,19 @@ sudo apt install build-essential git make
 ```
 
 ---
-💛 Support / Поддержка
-If this plugin is useful to you, consider buying me a coffee!
+---
 
-Если плагин оказался полезным — буду рад вашей поддержке!
+## 💛 Support / Поддержка
 
-PayPal
+If this script is useful to you, consider buying me a coffee!
 
-👉 paypal.me/askarkurymbayev
+Если скрипт оказался полезным — буду рад вашей поддержке!
+
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.me/askarkurymbayev)
+
+👉 [paypal.me/askarkurymbayev](https://www.paypal.me/askarkurymbayev)
+
+---
 
 ## Лицензия
 
