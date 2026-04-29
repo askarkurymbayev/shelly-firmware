@@ -50,6 +50,14 @@ sudo apt install build-essential git make
 ```
 
 ---
+💛 Support / Поддержка
+If this plugin is useful to you, consider buying me a coffee!
+
+Если плагин оказался полезным — буду рад вашей поддержке!
+
+PayPal
+
+👉 paypal.me/askarkurymbayev
 
 ## Лицензия
 
