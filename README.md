@@ -34,7 +34,7 @@ git clone https://github.com/askarkurymbayev/shelly-firmware.git
 cd shelly-firmware
 
 # Install Python dependencies
-pip3 install requests
+pip3 install requests --break-system-packages
 
 # Install system dependencies and build SPIFFS tools
 sudo apt install build-essential git make
@@ -103,7 +103,7 @@ git clone https://github.com/askarkurymbayev/shelly-firmware.git
 cd shelly-firmware
 
 # Установить зависимости Python
-pip3 install requests
+pip3 install requests --break-system-packages
 
 # Установить системные зависимости и собрать инструменты SPIFFS
 sudo apt install build-essential git make
